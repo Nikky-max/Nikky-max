@@ -1,0 +1,11 @@
+        	 WHAT IS ARRAY ?
+	*)instead of variable we can use array.
+	*)array is used to store the mulitple element in a single variable.
+	*)array element are acced by index postion. index postion start from 0's End with(n-1).
+
+		TYPES OF ARRAY,
+	1)one diamensional array,
+	2)two diamensional array,
+	3)mulit diamensional array.
+ 
+ Array has fixed size and counitues memory alagations. 
